@@ -1,0 +1,91 @@
+.box{
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+.para{
+    display: flex;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+
+
+.sub{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 140px;
+}
+
+.p{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 140px;
+}
+
+.input{
+    margin-left:130px;
+}
+
+.inpu{
+    margin-left: 100px;
+}
+
+.img{
+    margin-top: 50px;
+    
+   
+}
+
+.flex{
+      display: flex;
+    
+      
+
+}
+
+.fi{
+    margin-left: 110px;
+}
+
+.fii{
+    margin-left: 90px;
+}
+
+.margin{
+    margin-left: 40px;
+}
+
+.ch{
+    margin-left: 144px;
+}
+
+.bts{
+    margin-left: 5px;
+}
+
+.bts{
+    color: blue;
+}
+
+.bts:hover{
+    color:green
+}
+
+.file:hover{
+    color:green
+}
+.gap{
+    margin-top: 10px;
+    margin-left: 400px;
+    display: flex;
+    
+}
+ 
+@media screen and (max-width: 500px){.box{margin-left: 0px; margin-top: 10px;} .A{margin-left: 15px}
+.para{margin-left: 17px;} .input{margin-left: 40px;} .ch{margin-left: 17px;} .fi{margin-left:15px;} 
+.sub{margin-left: 17px;} .inpu{margin-left: 15px;} .p{margin-left: 17px;} .margin{margin-left:0px;}
+.DR{width: 100px;} .gap{margin-left: 110px;}}
+@media screen and (max-width: 450px){.box{margin-left: 0px; margin-top: 10px;}  .A{margin-left: 15px}}
+@media screen and (max-width: 350px){.box{margin-left: 0px; margin-top: 10px;} .A{margin-left: 15px}}
+
+    
